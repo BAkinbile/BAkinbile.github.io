@@ -1,1 +1,8 @@
-# BAkinbile.github.io
+- 👋 Hi, I’m @BAkinbile
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently building my portfolio
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me: bakinbile62@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I always find it hard to think of fun facts about me
+- # BAkinbile.github.io
