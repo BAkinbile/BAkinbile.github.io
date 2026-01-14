@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @BAkinbile
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently building my portfolio
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: bakinbile62@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I always find it hard to think of fun facts about me
-- # BAkinbile.github.io/dashboard.html
+# Data Analytics Portfolio Projects
+
+This repository contains selected data analytics projects demonstrating my skills in Excel, SQL, and dashboard design.
+
+## Projects
+
+### Sales Review Dashboard (Excel)
+An interactive Excel dashboard analyzing sales performance across product categories, countries, and time periods using pivot tables, charts, and slicers.
+
+### COVID Data Analysis (SQL)
+SQL queries exploring trends and insights from a COVID dataset.
+
+## Tools & Skills
+- Microsoft Excel
+- SQL
+- Data cleaning
+- Dashboard design
