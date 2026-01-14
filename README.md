@@ -19,5 +19,5 @@ SQL queries exploring trends and insights from a COVID dataset.
 - Data cleaning
 - Dashboard design
 
-🔗 Dashboard: [BAkinbile.github.io/dashboard.html](https://bakinbile.github.io/sales.html)
-              [BAkinbile.github.io/dashboard.html](https://bakinbile.github.io/dashboard.html)
+🔗 Dashboard 1: [BAkinbile.github.io/dashboard.html](https://bakinbile.github.io/sales.html)
+🔗 Dashboard 2: [BAkinbile.github.io/dashboard.html](https://bakinbile.github.io/dashboard.html)
