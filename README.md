@@ -15,3 +15,5 @@ SQL queries exploring trends and insights from a COVID dataset.
 - SQL
 - Data cleaning
 - Dashboard design
+
+🔗 Dashboard: BAkinbile.github.io/dashboard.html
