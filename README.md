@@ -7,6 +7,9 @@ This repository contains selected data analytics projects demonstrating my skill
 ### Sales Review Dashboard (Excel)
 An interactive Excel dashboard analyzing sales performance across product categories, countries, and time periods using pivot tables, charts, and slicers.
 
+## Dataset
+E-commerce sales practice dataset
+
 ### COVID Data Analysis (SQL)
 SQL queries exploring trends and insights from a COVID dataset.
 
